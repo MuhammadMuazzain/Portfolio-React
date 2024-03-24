@@ -16,7 +16,7 @@
     color: var(--color-text);
 }
 .menu{
-    display: flex;
+    display: flex
 }
 .menuItems{
     display: flex;
